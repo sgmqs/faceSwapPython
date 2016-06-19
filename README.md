@@ -13,5 +13,5 @@ The result is saved in result.jpg
 
 ##Output Result
 
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/zed41/faceSwapPython/master/result.jpg)
 
